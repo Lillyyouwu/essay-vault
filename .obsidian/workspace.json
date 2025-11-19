@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "c96d31d631dc9e77",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd7bd085e14e35d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d578681ac69b4dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Process/01-Liturature-论文阅读记录/MainWorks/KEY-01-Enabling Plug-n-Play in Named Data Networking.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "KEY-01-Enabling Plug-n-Play in Named Data Networking"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c9127138865df236",
+    "type": "split",
+    "children": [
+      {
+        "id": "cacdf4c9be02f13f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "132da15e4b45c989",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "5f244678eea4493b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:security",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "6e3ea3b0bf304876",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "cb66b55ca3045911",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 310.50329208374023
+  },
+  "right": {
+    "id": "4f202a0f4748d06f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d74d192c1fc99915",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11523f85433ca7af",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02-Process/01-Liturature-论文阅读记录/MainWorks/BG-01-An Overview of Security Support in Named Data Networking.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "BG-01-An Overview of Security Support in Named Data Networking 的反向链接列表"
+            }
+          },
+          {
+            "id": "9b3a4b71b3d9e161",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02-Process/01-Liturature-论文阅读记录/MainWorks/BG-01-An Overview of Security Support in Named Data Networking.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "BG-01-An Overview of Security Support in Named Data Networking 的出链列表"
+            }
+          },
+          {
+            "id": "487df4967e547e44",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "4688395085e47e02",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02-Process/01-Liturature-论文阅读记录/MainWorks/BG-01-An Overview of Security Support in Named Data Networking.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "BG-01-An Overview of Security Support in Named Data Networking 的大纲"
+            }
+          },
+          {
+            "id": "6692b4779fc5c04e",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 433.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "copilot:Open Copilot Chat": false
+    }
+  },
+  "active": "6d578681ac69b4dc",
+  "lastOpenFiles": [
+    "00-Daily Note/2025-11-10.md",
+    "03-Output-Project/01-毕业设计/Essay-文献综述.md",
+    "03-Output-Project/01-毕业设计/Essay-Ch0-Outline-毕业论文大纲.md",
+    "03-Output-Project/01-毕业设计/方法临时笔记.md",
+    "02-Process/02-Permanent-ICN基础概念/Concept-05-What's my task.md",
+    "02-Process/02-Permanent-ICN基础概念/Concept-01-Named Data Networking.md",
+    "02-Process/02-Permanent-ICN基础概念/Concept-02-Security Bootstrapping.md",
+    "02-Process/02-Permanent-ICN基础概念/Concept-03-Forwarding Hint.md",
+    "02-Process/02-Permanent-ICN基础概念/Concept-04-Reflexive Interest.md",
+    "02-Process/01-Liturature-论文阅读记录/BG-06-NDN Host Model.md",
+    "02-Process/01-Liturature-论文阅读记录/Trivial/Related-32-Demo overview fully decentralised authentication scheme for ICN in disaster scenarios.md",
+    "02-Process/01-Liturature-论文阅读记录/MainWorks/Ref-06-BAS-NDN.md",
+    "06-Attachment/PDF-参考文献/Read/ICN/Identifying Roadblocks in Building Decentralized Apps.pdf",
+    "06-Attachment/PDF-参考文献/Read/ICN",
+    "06-Attachment/PDF-参考文献/Read/新建文件夹",
+    "06-Attachment/PDF-参考文献/Read/Forwarding/Performance_analysis_of_self-learning_forwarding_algorithms_for_Vehicle-to-Vehicle_networks_on_Named_Data_Networking_NDN.pdf",
+    "06-Attachment/PDF-参考文献/Read/Forwarding/Optimizing_Self-Learning_Forwarding_Strategies_in_Vehicular_Named_Data_Network_through_Protocol_Simplification.pdf",
+    "06-Attachment/PDF-参考文献/Read/Forwarding/Prediction-Based_Link_Adaptive_Forwarding_Method_in_Vehicular_Named_Data_Networking.pdf",
+    "06-Attachment/PDF-参考文献/Read/Trust Schema/BAS-NDN BlockChain based mobile producer authentication scheme for NDN.pdf",
+    "06-Attachment/PDF-参考文献/Read/Forwarding/NDN's Stateful Forwarding Plane Meeting Frequent Connectivity Changes of LEO Satellite Constellations.pdf",
+    "06-Attachment/PDF-参考文献/Read/Trust Schema/Demo Overview Fully Decentralised Authentication Scheme for ICN in Disaster Scenarios.pdf",
+    "06-Attachment/PDF-参考文献/Read/Trust Schema",
+    "02-Process/01-Liturature-论文阅读记录/MainWorks/BG-04-Envisioning the Next-Generation Cellular Architecture With Named Data Networking.md",
+    "02-Process/01-Liturature-论文阅读记录/MainWorks/KEY-01-Enabling Plug-n-Play in Named Data Networking.md",
+    "02-Process/01-Liturature-论文阅读记录/MainWorks/Ref-05-PION Password-based IoT Onboarding Over NDN.md",
+    "02-Process/01-Liturature-论文阅读记录/MainWorks/Ref-04-Prediction-based Link Adaptive Forwarding Method in Vehicular Named Data Networking.md",
+    "02-Process/01-Liturature-论文阅读记录/MainWorks/KEY-04-Cornerstone Automating Remote NDN Entity Bootstrapping.md",
+    "02-Process/01-Liturature-论文阅读记录/MainWorks/BG-01-An Overview of Security Support in Named Data Networking.md",
+    "02-Process/01-Liturature-论文阅读记录/Trivial/Related-02-Identifying Roadblocks in Building Decentralized Apps.md",
+    "02-Process/01-Liturature-论文阅读记录/Trivial/Related-31-Secure Distribution of Protected Content in Information-Centric Networking.md",
+    "02-Process/01-Liturature-论文阅读记录/MainWorks/KEY-02-On broadcast-based self-learning in named data networking.md",
+    "02-Process/01-Liturature-论文阅读记录/MainWorks/BG-05-On the Security Bootstrapping in Named Data Networking.md",
+    "02-Process/01-Liturature-论文阅读记录/MainWorks/KEY-03-On Incremental Deployment of Named Data Networking in Local Area Networks.md",
+    "02-Process/01-Liturature-论文阅读记录/MainWorks/BG-03-Intertrust establishing inter-zone trust relationships.md",
+    "02-Process/01-Liturature-论文阅读记录/MainWorks/BG-02-PythonRepo Persistent In-Network Storage for Named Data Networking.md",
+    "01-Input/02-Fleeting-论文的关注点.md"
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": "#24f069",
+    "recentlyUsedIcons": [
+      "LiMessageCircleQuestion",
+      "💻",
+      "LiBaseline",
+      "LiUnplug",
+      "LiKeyRound"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "05-Templates/Soc-templates-Daily Notes.md": {
+    "iconName": "LiBookTemplate",
+    "iconColor": "#149de1"
+  },
+  "05-Templates/Soc-templates-Essay Review.md": {
+    "iconName": "LiBookTemplate",
+    "iconColor": "#0fae7e"
+  },
+  "05-Templates/Soc-templates-MOC.md": {
+    "iconName": "LiBookTemplate",
+    "iconColor": "#c5a60d"
+  },
+  "05-Templates/Soc-templates-Writing.md": {
+    "iconName": "LiBookTemplate",
+    "iconColor": "#b911d0"
+  },
+  "03-Output-Project/01-毕业设计/Essay-论文.md": "LiBookOpen",
+  "03-Output-Project/01-毕业设计/Essay-开题报告.md": {
+    "iconName": "LiAlarmClock",
+    "iconColor": "#bd0533"
+  },
+  "03-Output-Project/01-毕业设计/Essay-文献综述.md": {
+    "iconName": "LiAlarmClock",
+    "iconColor": "#de025a"
+  },
+  "01-Input/01-Fleeting-计划表.md": {
+    "iconName": "LiListTodo",
+    "iconColor": "#1258ca"
+  },
+  "03-Output-Project/02-小论文/Essay-论文.md": "LiBookOpen",
+  "03-Output-Project/02-小论文/Research Proposal.md": {
+    "iconName": "LiBookText",
+    "iconColor": "#d00643"
+  },
+  "02-Process/03-Permanent-Prompt/AI论文深度阅读与分析提示词（完整版）.md": {
+    "iconName": "LiLightbulb",
+    "iconColor": "#e6c20f"
+  },
+  "03-Output-Project/02-小论文/Essay-Outline-小论文大纲.md": "LiListTodo",
+  "03-Output-Project/01-毕业设计/Essay-Ch3-方法设计-Tunnel.md": "3️⃣",
+  "03-Output-Project/01-毕业设计/Essay-Ch2-已有技术.md": "2️⃣",
+  "03-Output-Project/01-毕业设计/Essay-Ch4-方案设计.md": "4️⃣",
+  "03-Output-Project/01-毕业设计/Essay-Ch5-系统实现.md": "5️⃣",
+  "03-Output-Project/01-毕业设计/Essay-Ch1-绪论.md": "1️⃣",
+  "03-Output-Project/01-毕业设计/Essay-Ch0-Outline-毕业论文大纲.md": "0️⃣",
+  "02-Process/01-Liturature-论文阅读记录/MainWorks/KEY-01-Enabling Plug-n-Play in Named Data Networking.md": "🌟",
+  "02-Process/01-Liturature-论文阅读记录/MainWorks/KEY-02-On broadcast-based self-learning in named data networking.md": "🌟",
+  "02-Process/03-Permanent-Prompt/API-KEY.md": "LiKeyRound",
+  "02-Process/02-Permanent-ICN基础概念/Concept-01-Named Data Networking.md": {
+    "iconName": "LiMessagesSquare",
+    "iconColor": "#de4512"
+  },
+  "02-Process/02-Permanent-ICN基础概念/Concept-03-Forwarding Hint.md": {
+    "iconName": "LiArrowLeftRight",
+    "iconColor": "#9149e9"
+  },
+  "02-Process/02-Permanent-ICN基础概念/Concept-04-Reflexive Interest.md": {
+    "iconName": "LiArrowLeftRight",
+    "iconColor": "#ec3ccc"
+  },
+  "02-Process/02-Permanent-ICN基础概念/Concept-02-Security Bootstrapping.md": {
+    "iconName": "LiUnplug",
+    "iconColor": "#1276d3"
+  },
+  "02-Process/01-Liturature-论文阅读记录/MainWorks/KEY-04-Cornerstone Automating Remote NDN Entity Bootstrapping.md": {
+    "iconName": "LiBaseline",
+    "iconColor": "#96f028"
+  },
+  "02-Process/01-Liturature-论文阅读记录/BG-06-NDN Host Model.md": "💻",
+  "02-Process/02-Permanent-ICN基础概念/Concept-05-What's my task.md": "LiMessageCircleQuestion"
+}
