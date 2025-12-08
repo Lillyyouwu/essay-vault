@@ -20,9 +20,13 @@ created: 2025-11-17
 
 ### 安全配置方案
 如何在域间建立安全模型：[[BG-03-Intertrust establishing inter-zone trust relationships|Intertrust]]
+在智慧家居场景下，实现的安全模式范式：[[Related-04-Trust Schemas and ICN Key to Secure Home IoT|Versec]]
 ### 安全引导方案
 四步协议步骤，完成密钥交换：[[Ref-05-PION Password-based IoT Onboarding Over NDN|PION]]
 密码学方法，生成可用密钥：[[Ref-06-BAS-NDN|BAS-NDN]]
+在IoT场景下，通过物理振动建立起安全引导的信道：[[Ref-08-NDNViber Vibration-Assisted Automated Bootstrapping of IoT Devices|NDNViber]]
+IoT场景下，一种通用的设备登录过程：[[Ref-07-A Secure Sign-On Protocol for Smart Homes over Named Data Networking|SSP]]
+
 ### 网络连接方案
 [[KEY-02-On broadcast-based self-learning in named data networking]]
 

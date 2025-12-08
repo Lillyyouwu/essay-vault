@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dd7bd085e14e35d1",
+        "id": "ea7e21549e868ed4",
         "type": "tabs",
         "children": [
           {
-            "id": "6d578681ac69b4dc",
+            "id": "333f4d929372cf6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Process/01-Liturature-论文阅读记录/MainWorks/KEY-01-Enabling Plug-n-Play in Named Data Networking.md",
+                "file": "02-Process/04-Literature-DHCP/RFC-Reflexive Forwarding for CCNx and NDN Protocols.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "KEY-01-Enabling Plug-n-Play in Named Data Networking"
+              "title": "RFC-Reflexive Forwarding for CCNx and NDN Protocols"
+            }
+          },
+          {
+            "id": "68fdf8891f66fbe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Process/05-Ariticle-论文关键点/5-Security-安全考量.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "5-Security-安全考量"
             }
           }
         ]
@@ -63,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:security",
+                "query": "tag:template",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.50329208374023
+    "width": 290.50329208374023
   },
   "right": {
     "id": "4f202a0f4748d06f",
@@ -205,46 +229,47 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "6d578681ac69b4dc",
+  "active": "333f4d929372cf6b",
   "lastOpenFiles": [
-    "00-Daily Note/2025-11-10.md",
+    "02-Process/05-Ariticle-论文关键点/2-Related Works-相关工作.md",
+    "02-Process/05-Ariticle-论文关键点/5-Security-安全考量.md",
+    "02-Process/05-Ariticle-论文关键点/1-Background-背景.md",
+    "02-Process/05-Ariticle-论文关键点/6-DFx-扩展性讨论.md",
+    "02-Process/05-Ariticle-论文关键点/4-Implementation-实验.md",
+    "02-Process/05-Ariticle-论文关键点/3-Main Design-流程.md",
     "03-Output-Project/01-毕业设计/Essay-文献综述.md",
-    "03-Output-Project/01-毕业设计/Essay-Ch0-Outline-毕业论文大纲.md",
-    "03-Output-Project/01-毕业设计/方法临时笔记.md",
-    "02-Process/02-Permanent-ICN基础概念/Concept-05-What's my task.md",
-    "02-Process/02-Permanent-ICN基础概念/Concept-01-Named Data Networking.md",
-    "02-Process/02-Permanent-ICN基础概念/Concept-02-Security Bootstrapping.md",
+    "02-Process/04-Literature-DHCP/论文提纲.md",
+    "02-Process/02-Permanent-ICN基础概念/Concept-04-Reflexive Forwarding.md",
+    "02-Process/04-Literature-DHCP/RFC-Reflexive Forwarding for CCNx and NDN Protocols.md",
+    "未命名.md",
+    "02-Process/05-Ariticle-论文关键点",
+    "00-DailyNote/2025-12-04.md",
     "02-Process/02-Permanent-ICN基础概念/Concept-03-Forwarding Hint.md",
-    "02-Process/02-Permanent-ICN基础概念/Concept-04-Reflexive Interest.md",
-    "02-Process/01-Liturature-论文阅读记录/BG-06-NDN Host Model.md",
-    "02-Process/01-Liturature-论文阅读记录/Trivial/Related-32-Demo overview fully decentralised authentication scheme for ICN in disaster scenarios.md",
-    "02-Process/01-Liturature-论文阅读记录/MainWorks/Ref-06-BAS-NDN.md",
-    "06-Attachment/PDF-参考文献/Read/ICN/Identifying Roadblocks in Building Decentralized Apps.pdf",
-    "06-Attachment/PDF-参考文献/Read/ICN",
-    "06-Attachment/PDF-参考文献/Read/新建文件夹",
-    "06-Attachment/PDF-参考文献/Read/Forwarding/Performance_analysis_of_self-learning_forwarding_algorithms_for_Vehicle-to-Vehicle_networks_on_Named_Data_Networking_NDN.pdf",
-    "06-Attachment/PDF-参考文献/Read/Forwarding/Optimizing_Self-Learning_Forwarding_Strategies_in_Vehicular_Named_Data_Network_through_Protocol_Simplification.pdf",
-    "06-Attachment/PDF-参考文献/Read/Forwarding/Prediction-Based_Link_Adaptive_Forwarding_Method_in_Vehicular_Named_Data_Networking.pdf",
-    "06-Attachment/PDF-参考文献/Read/Trust Schema/BAS-NDN BlockChain based mobile producer authentication scheme for NDN.pdf",
-    "06-Attachment/PDF-参考文献/Read/Forwarding/NDN's Stateful Forwarding Plane Meeting Frequent Connectivity Changes of LEO Satellite Constellations.pdf",
-    "06-Attachment/PDF-参考文献/Read/Trust Schema/Demo Overview Fully Decentralised Authentication Scheme for ICN in Disaster Scenarios.pdf",
-    "06-Attachment/PDF-参考文献/Read/Trust Schema",
-    "02-Process/01-Liturature-论文阅读记录/MainWorks/BG-04-Envisioning the Next-Generation Cellular Architecture With Named Data Networking.md",
-    "02-Process/01-Liturature-论文阅读记录/MainWorks/KEY-01-Enabling Plug-n-Play in Named Data Networking.md",
-    "02-Process/01-Liturature-论文阅读记录/MainWorks/Ref-05-PION Password-based IoT Onboarding Over NDN.md",
-    "02-Process/01-Liturature-论文阅读记录/MainWorks/Ref-04-Prediction-based Link Adaptive Forwarding Method in Vehicular Named Data Networking.md",
-    "02-Process/01-Liturature-论文阅读记录/MainWorks/KEY-04-Cornerstone Automating Remote NDN Entity Bootstrapping.md",
-    "02-Process/01-Liturature-论文阅读记录/MainWorks/BG-01-An Overview of Security Support in Named Data Networking.md",
-    "02-Process/01-Liturature-论文阅读记录/Trivial/Related-02-Identifying Roadblocks in Building Decentralized Apps.md",
-    "02-Process/01-Liturature-论文阅读记录/Trivial/Related-31-Secure Distribution of Protected Content in Information-Centric Networking.md",
-    "02-Process/01-Liturature-论文阅读记录/MainWorks/KEY-02-On broadcast-based self-learning in named data networking.md",
-    "02-Process/01-Liturature-论文阅读记录/MainWorks/BG-05-On the Security Bootstrapping in Named Data Networking.md",
-    "02-Process/01-Liturature-论文阅读记录/MainWorks/KEY-03-On Incremental Deployment of Named Data Networking in Local Area Networks.md",
-    "02-Process/01-Liturature-论文阅读记录/MainWorks/BG-03-Intertrust establishing inter-zone trust relationships.md",
-    "02-Process/01-Liturature-论文阅读记录/MainWorks/BG-02-PythonRepo Persistent In-Network Storage for Named Data Networking.md",
-    "01-Input/02-Fleeting-论文的关注点.md"
+    "02-Process/01-Liturature-论文阅读记录/BG-10-RESTful ICN-Statement.md",
+    "02-Process/01-Liturature-论文阅读记录/Secure Web Objects.md",
+    "02-Process/01-Liturature-论文阅读记录/Investigating the Synergy between Routing and Forwarding Strategy in NDN Networks.md",
+    "02-Process/01-Liturature-论文阅读记录/Trivial/BG-09-The Metaverse as an ICN-Statement.md",
+    "02-Process/01-Liturature-论文阅读记录/MainWorks/Ref-10-NDN-MPS Supporting Multiparty Authentication over Named Data Networking.md",
+    "02-Process/01-Liturature-论文阅读记录/BG-08-A Survey on Content Retrieval on the Decentralised Web.md",
+    "06-Attachment/PDF-参考文献/Read/ICN/Statement The Metaverse as an ICN.pdf",
+    "02-Process/02-Permanent-ICN基础概念/Concept-00-Information Centric Network.md",
+    "02-Process/02-Permanent-ICN基础概念/Concept-01-Named Data Networking.md",
+    "06-Attachment/PDF-参考文献/ToRead/Statement The Metaverse as an ICN.pdf",
+    "06-Attachment/PDF-参考文献/ToRead/Statement RESTful ICN.pdf",
+    "06-Attachment/PDF-参考文献/ToRead/Long-Range_ICN_for_the_IoT_Exploring_a_LoRa_System_Design.pdf",
+    "06-Attachment/PDF-参考文献/ToRead/Secure_Web_Objects_Building_Blocks_for_Metaverse_Interoperability_and_Decentralization.pdf",
+    "06-Attachment/PDF-参考文献/ToRead/A Survey on Content Retrieval on the Decentralised Web.pdf",
+    "02-Process/01-Liturature-论文阅读记录/Long-Range ICN for the IoT.md",
+    "06-Attachment/PDF-参考文献/Read/Investigating the Synergy between Routing and Forwarding Strategy in NDN Networks.pdf",
+    "06-Attachment/PDF-参考文献/Read/Adapting Named Data Networking (NDN) for Better Consumer Mobility Support in LEO Satellite Networks.pdf",
+    "06-Attachment/PDF-参考文献/KeyPDF/ForwardingHint/NDN in large LEO satellite constellations a case of consumer mobility support.pdf",
+    "02-Process/01-Liturature-论文阅读记录/MainWorks/Ref-11-NDN in large LEO satellite constellations- a case of consumer mobility support.md",
+    "02-Process/01-Liturature-论文阅读记录/Trivial/Related-33-Adapting Named Data Networking (NDN) for Better Consumer Mobility Support in LEO Satellite Networks.md",
+    "02-Process/01-Liturature-论文阅读记录/MainWorks/KEY-05-SNAMP Secure namespace mapping to scale NDN forwarding.md",
+    "00-DailyNote/2025-11-10.md"
   ]
 }

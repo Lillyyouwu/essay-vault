@@ -28,7 +28,7 @@ keywords: {Performance evaluation;Mesh networks;Protocols;Mesons;Scalability;Pro
 #### 关键词
 Performance evaluation;Mesh networks;Protocols;Mesons;Scalability;Prototypes;Spread spectrum communication
 #### 点评
-经典的NDN Bootstrapping协议。
+四大的NDN Bootstrapping协议之一。
 使用OOB方法交换密钥，缺少多跳支持。
 ## AI总结
 **1. 核心问题与动机**

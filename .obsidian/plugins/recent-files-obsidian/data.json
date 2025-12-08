@@ -1,124 +1,124 @@
 {
   "recentFiles": [
     {
-      "basename": "KEY-01-Enabling Plug-n-Play in Named Data Networking",
-      "path": "02-Process/01-Liturature-论文阅读记录/MainWorks/KEY-01-Enabling Plug-n-Play in Named Data Networking.md"
+      "basename": "RFC-Reflexive Forwarding for CCNx and NDN Protocols",
+      "path": "02-Process/04-Literature-DHCP/RFC-Reflexive Forwarding for CCNx and NDN Protocols.md"
     },
     {
-      "basename": "2025-11-10",
-      "path": "00-Daily Note/2025-11-10.md"
+      "basename": "2-Related Works-相关工作",
+      "path": "02-Process/05-Ariticle-论文关键点/2-Related Works-相关工作.md"
+    },
+    {
+      "basename": "5-Security-安全考量",
+      "path": "02-Process/05-Ariticle-论文关键点/5-Security-安全考量.md"
+    },
+    {
+      "basename": "1-Background-背景",
+      "path": "02-Process/05-Ariticle-论文关键点/1-Background-背景.md"
+    },
+    {
+      "basename": "6-DFx-扩展性讨论",
+      "path": "02-Process/05-Ariticle-论文关键点/6-DFx-扩展性讨论.md"
+    },
+    {
+      "basename": "4-Implementation-实验",
+      "path": "02-Process/05-Ariticle-论文关键点/4-Implementation-实验.md"
+    },
+    {
+      "basename": "3-Main Design-流程",
+      "path": "02-Process/05-Ariticle-论文关键点/3-Main Design-流程.md"
     },
     {
       "basename": "Essay-文献综述",
       "path": "03-Output-Project/01-毕业设计/Essay-文献综述.md"
     },
     {
-      "basename": "Essay-Ch0-Outline-毕业论文大纲",
-      "path": "03-Output-Project/01-毕业设计/Essay-Ch0-Outline-毕业论文大纲.md"
+      "basename": "论文提纲",
+      "path": "02-Process/04-Literature-DHCP/论文提纲.md"
     },
     {
-      "basename": "方法临时笔记",
-      "path": "03-Output-Project/01-毕业设计/方法临时笔记.md"
+      "basename": "Concept-04-Reflexive Forwarding",
+      "path": "02-Process/02-Permanent-ICN基础概念/Concept-04-Reflexive Forwarding.md"
     },
     {
-      "basename": "Concept-05-What's my task",
-      "path": "02-Process/02-Permanent-ICN基础概念/Concept-05-What's my task.md"
-    },
-    {
-      "basename": "Concept-01-Named Data Networking",
-      "path": "02-Process/02-Permanent-ICN基础概念/Concept-01-Named Data Networking.md"
-    },
-    {
-      "basename": "Concept-02-Security Bootstrapping",
-      "path": "02-Process/02-Permanent-ICN基础概念/Concept-02-Security Bootstrapping.md"
+      "basename": "2025-12-04",
+      "path": "00-DailyNote/2025-12-04.md"
     },
     {
       "basename": "Concept-03-Forwarding Hint",
       "path": "02-Process/02-Permanent-ICN基础概念/Concept-03-Forwarding Hint.md"
     },
     {
-      "basename": "Concept-04-Reflexive Interest",
-      "path": "02-Process/02-Permanent-ICN基础概念/Concept-04-Reflexive Interest.md"
+      "basename": "BG-10-RESTful ICN-Statement",
+      "path": "02-Process/01-Liturature-论文阅读记录/BG-10-RESTful ICN-Statement.md"
     },
     {
-      "basename": "BG-06-NDN Host Model",
-      "path": "02-Process/01-Liturature-论文阅读记录/BG-06-NDN Host Model.md"
+      "basename": "Secure Web Objects",
+      "path": "02-Process/01-Liturature-论文阅读记录/Secure Web Objects.md"
     },
     {
-      "basename": "Related-32-Demo overview fully decentralised authentication scheme for ICN in disaster scenarios",
-      "path": "02-Process/01-Liturature-论文阅读记录/Trivial/Related-32-Demo overview fully decentralised authentication scheme for ICN in disaster scenarios.md"
+      "basename": "Investigating the Synergy between Routing and Forwarding Strategy in NDN Networks",
+      "path": "02-Process/01-Liturature-论文阅读记录/Investigating the Synergy between Routing and Forwarding Strategy in NDN Networks.md"
     },
     {
-      "basename": "Ref-06-BAS-NDN",
-      "path": "02-Process/01-Liturature-论文阅读记录/MainWorks/Ref-06-BAS-NDN.md"
+      "basename": "BG-09-The Metaverse as an ICN-Statement",
+      "path": "02-Process/01-Liturature-论文阅读记录/Trivial/BG-09-The Metaverse as an ICN-Statement.md"
     },
     {
-      "basename": "BG-04-Envisioning the Next-Generation Cellular Architecture With Named Data Networking",
-      "path": "02-Process/01-Liturature-论文阅读记录/MainWorks/BG-04-Envisioning the Next-Generation Cellular Architecture With Named Data Networking.md"
+      "basename": "Ref-10-NDN-MPS Supporting Multiparty Authentication over Named Data Networking",
+      "path": "02-Process/01-Liturature-论文阅读记录/MainWorks/Ref-10-NDN-MPS Supporting Multiparty Authentication over Named Data Networking.md"
     },
     {
-      "basename": "Envisioning_the_Next-Generation_Cellular_Architecture_With_Named_Data_Networking",
-      "path": "06-Attachment/PDF-参考文献/KeyPDF/Envisioning_the_Next-Generation_Cellular_Architecture_With_Named_Data_Networking.pdf"
+      "basename": "BG-08-A Survey on Content Retrieval on the Decentralised Web",
+      "path": "02-Process/01-Liturature-论文阅读记录/BG-08-A Survey on Content Retrieval on the Decentralised Web.md"
     },
     {
-      "basename": "Ref-05-PION Password-based IoT Onboarding Over NDN",
-      "path": "02-Process/01-Liturature-论文阅读记录/MainWorks/Ref-05-PION Password-based IoT Onboarding Over NDN.md"
+      "basename": "Concept-00-Information Centric Network",
+      "path": "02-Process/02-Permanent-ICN基础概念/Concept-00-Information Centric Network.md"
     },
     {
-      "basename": "Ref-04-Prediction-based Link Adaptive Forwarding Method in Vehicular Named Data Networking",
-      "path": "02-Process/01-Liturature-论文阅读记录/MainWorks/Ref-04-Prediction-based Link Adaptive Forwarding Method in Vehicular Named Data Networking.md"
+      "basename": "Concept-01-Named Data Networking",
+      "path": "02-Process/02-Permanent-ICN基础概念/Concept-01-Named Data Networking.md"
     },
     {
-      "basename": "KEY-04-Cornerstone Automating Remote NDN Entity Bootstrapping",
-      "path": "02-Process/01-Liturature-论文阅读记录/MainWorks/KEY-04-Cornerstone Automating Remote NDN Entity Bootstrapping.md"
+      "basename": "Long-Range ICN for the IoT",
+      "path": "02-Process/01-Liturature-论文阅读记录/Long-Range ICN for the IoT.md"
     },
     {
-      "basename": "BG-01-An Overview of Security Support in Named Data Networking",
-      "path": "02-Process/01-Liturature-论文阅读记录/MainWorks/BG-01-An Overview of Security Support in Named Data Networking.md"
+      "basename": "Ref-11-NDN in large LEO satellite constellations- a case of consumer mobility support",
+      "path": "02-Process/01-Liturature-论文阅读记录/MainWorks/Ref-11-NDN in large LEO satellite constellations- a case of consumer mobility support.md"
     },
     {
-      "basename": "Related-02-Identifying Roadblocks in Building Decentralized Apps",
-      "path": "02-Process/01-Liturature-论文阅读记录/Trivial/Related-02-Identifying Roadblocks in Building Decentralized Apps.md"
+      "basename": "Related-33-Adapting Named Data Networking (NDN) for Better Consumer Mobility Support in LEO Satellite Networks",
+      "path": "02-Process/01-Liturature-论文阅读记录/Trivial/Related-33-Adapting Named Data Networking (NDN) for Better Consumer Mobility Support in LEO Satellite Networks.md"
     },
     {
-      "basename": "Related-31-Secure Distribution of Protected Content in Information-Centric Networking",
-      "path": "02-Process/01-Liturature-论文阅读记录/Trivial/Related-31-Secure Distribution of Protected Content in Information-Centric Networking.md"
+      "basename": "KEY-05-SNAMP Secure namespace mapping to scale NDN forwarding",
+      "path": "02-Process/01-Liturature-论文阅读记录/MainWorks/KEY-05-SNAMP Secure namespace mapping to scale NDN forwarding.md"
     },
     {
-      "basename": "KEY-02-On broadcast-based self-learning in named data networking",
-      "path": "02-Process/01-Liturature-论文阅读记录/MainWorks/KEY-02-On broadcast-based self-learning in named data networking.md"
+      "basename": "2025-11-10",
+      "path": "00-DailyNote/2025-11-10.md"
     },
     {
-      "basename": "BG-05-On the Security Bootstrapping in Named Data Networking",
-      "path": "02-Process/01-Liturature-论文阅读记录/MainWorks/BG-05-On the Security Bootstrapping in Named Data Networking.md"
+      "basename": "Research Proposal",
+      "path": "03-Output-Project/02-小论文/Research Proposal.md"
     },
     {
-      "basename": "KEY-03-On Incremental Deployment of Named Data Networking in Local Area Networks",
-      "path": "02-Process/01-Liturature-论文阅读记录/MainWorks/KEY-03-On Incremental Deployment of Named Data Networking in Local Area Networks.md"
+      "basename": "Ref-09-QSCCP A QoS-Aware Congestion Control Protocol for Information-Centric Networking",
+      "path": "02-Process/01-Liturature-论文阅读记录/Trivial/Ref-09-QSCCP A QoS-Aware Congestion Control Protocol for Information-Centric Networking.md"
     },
     {
-      "basename": "On_Incremental_Deployment_of_Named_Data_Networking_in_Local_Area_Networks",
-      "path": "06-Attachment/PDF-参考文献/KeyPDF/On_Incremental_Deployment_of_Named_Data_Networking_in_Local_Area_Networks.pdf"
+      "basename": "Essay-Outline-小论文大纲",
+      "path": "03-Output-Project/02-小论文/Essay-Outline-小论文大纲.md"
     },
     {
-      "basename": "BG-03-Intertrust establishing inter-zone trust relationships",
-      "path": "02-Process/01-Liturature-论文阅读记录/MainWorks/BG-03-Intertrust establishing inter-zone trust relationships.md"
+      "basename": "Concept-05-What's my task",
+      "path": "02-Process/02-Permanent-ICN基础概念/Concept-05-What's my task.md"
     },
     {
-      "basename": "BG-02-PythonRepo Persistent In-Network Storage for Named Data Networking",
-      "path": "02-Process/01-Liturature-论文阅读记录/MainWorks/BG-02-PythonRepo Persistent In-Network Storage for Named Data Networking.md"
-    },
-    {
-      "basename": "02-Fleeting-论文的关注点",
-      "path": "01-Input/02-Fleeting-论文的关注点.md"
-    },
-    {
-      "basename": "QSCCP_A_QoS-Aware_Congestion_Control_Protocol_for_Information-Centric_Networking",
-      "path": "06-Attachment/PDF-参考文献/ToRead/QSCCP_A_QoS-Aware_Congestion_Control_Protocol_for_Information-Centric_Networking.pdf"
-    },
-    {
-      "basename": "On Empowering End Users in Future Networking",
-      "path": "06-Attachment/PDF-参考文献/ToRead/On Empowering End Users in Future Networking.pdf"
+      "basename": "Concept-02-Security Bootstrapping",
+      "path": "02-Process/02-Permanent-ICN基础概念/Concept-02-Security Bootstrapping.md"
     }
   ],
   "omittedPaths": [],

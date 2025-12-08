@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#24f069",
     "recentlyUsedIcons": [
+      "LiNewspaper",
+      "LiLightbulb",
+      "LiAlignVerticalJustifyEnd",
       "LiMessageCircleQuestion",
-      "💻",
-      "LiBaseline",
-      "LiUnplug",
-      "LiKeyRound"
+      "💻"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -90,10 +90,6 @@
     "iconName": "LiArrowLeftRight",
     "iconColor": "#9149e9"
   },
-  "02-Process/02-Permanent-ICN基础概念/Concept-04-Reflexive Interest.md": {
-    "iconName": "LiArrowLeftRight",
-    "iconColor": "#ec3ccc"
-  },
   "02-Process/02-Permanent-ICN基础概念/Concept-02-Security Bootstrapping.md": {
     "iconName": "LiUnplug",
     "iconColor": "#1276d3"
@@ -102,6 +98,16 @@
     "iconName": "LiBaseline",
     "iconColor": "#96f028"
   },
-  "02-Process/01-Liturature-论文阅读记录/BG-06-NDN Host Model.md": "💻",
-  "02-Process/02-Permanent-ICN基础概念/Concept-05-What's my task.md": "LiMessageCircleQuestion"
+  "02-Process/02-Permanent-ICN基础概念/Concept-05-What's my task.md": "LiMessageCircleQuestion",
+  "02-Process/01-Liturature-论文阅读记录/MainWorks/BG-06-NDN Host Model.md": "💻",
+  "02-Process/01-Liturature-论文阅读记录/MainWorks/BG-07-On Empowering End Users in Future Networking.md": "LiAlignVerticalJustifyEnd",
+  "02-Process/01-Liturature-论文阅读记录/MainWorks/KEY-05-SNAMP Secure namespace mapping to scale NDN forwarding.md": {
+    "iconName": "LiLightbulb",
+    "iconColor": "#f7d14b"
+  },
+  "02-Process/02-Permanent-ICN基础概念/Concept-04-Reflexive Forwarding.md": {
+    "iconName": "LiArrowLeftRight",
+    "iconColor": "#ec3ccc"
+  },
+  "02-Process/04-Literature-DHCP/RFC-Reflexive Forwarding for CCNx and NDN Protocols.md": "LiNewspaper"
 }
